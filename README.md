@@ -33,3 +33,5 @@ Biscuit is currently available on:
 - GTK
 - Firefox
 - Discord
+- Alacritty
+- Emacs
