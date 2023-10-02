@@ -1,6 +1,5 @@
 # Biscuit
-![image](https://github.com/tsukki9696/biscuit/assets/127806743/2d68e275-647c-4ea6-9efc-256645a7d9b1)
-
+<img src='assets/logo-dark.png'/>
 Simple, cozy colorscheme for forest dwellers. Biscuit was made to be an accomodating dark theme, with warm colors that reminds you of hot summer days and cozy sunsets. Made with 🧡.
 
 ## Colors
