@@ -35,3 +35,4 @@ Biscuit is currently available on:
 - Discord
 - Alacritty
 - Emacs
+- Foot
