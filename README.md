@@ -1,10 +1,13 @@
-# Biscuit
-<img src='assets/logo-dark.png'/>
-Simple, cozy colorscheme for forest dwellers. Biscuit was made to be an accomodating dark theme, with warm colors that reminds you of hot summer days and cozy sunsets. Made with 🧡.
+<h3 align="center">
+	<img src="assets/logo-dark.png" width="200" alt="Logo"/><br/>
+</h3>
+<p align="center"><b>Biscuit</b> is a simple, warm colorscheme with cute colors that invoke feelings of a warm summer day. Made for comfort and elegant themes and to be easy on the eyes. An escape from the usual colorschemes you see everywhere, a safe haven and a warm cup of tea in amidst of a busy day. Made with love.</p>
 
-## Colors
-
-## Biscuit Dark
+### Design Philosophy
+- <b>Warm as a summer day</b>: Biscuit needs warm tones that go easy on the eyes and invokes feelings of warmth
+- <b>Chocolatey</b>: Background colors are the cornerstone of the theme, so they must be easy on the eyes since it's the color you'll see the most
+- <b>Milky</b>: Foreground colors must also be easy to look, and no one wants to hurt their eyes while reading text, so we chose colors that should comfort the eyes
+### Colors
 
 | Image | Label | Hex | RGB | HSL |
 |-------|-------|-----|-----|-----|
@@ -25,8 +28,7 @@ Simple, cozy colorscheme for forest dwellers. Biscuit was made to be an accomoda
 | <img src='assets/squares/Rectangle 22.png'/> | Plum           | `#7B3D79` | `rgb(123, 61, 121)`   | `hsl(302, 34%, 36%)`    |
 | <img src='assets/squares/Rectangle 23.png'/> | Magenta Haze   | `#AE3F82` | `rgb(174, 63, 115)`   | `hsl(332, 47%, 46%)`    |
 
-## Ports
-Biscuit is currently available on:
+### Ports
 
 - Xresources
 - Neovim
