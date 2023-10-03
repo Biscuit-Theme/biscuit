@@ -42,15 +42,15 @@
 | <img src='assets/biscuit-light/Rectangle 28.png'/> | Cinereous            | `#9C8181` | `rgb(156, 129, 129)`     | `hsl(0, 12%, 56%)`      |
 | <img src='assets/biscuit-light/Rectangle 27.png'/> | Van Dyke             | `#483939` | `rgb(72, 57, 57)`        | `hsl(0, 12%, 25%)`      |
 | <img src='assets/biscuit-light/Rectangle 29.png'/> | Raisin Black         | `#2D2424` | `rgb(45, 36, 36)`        | `hsl(0, 11%, 16%)`      |
-| <img src='assets/biscuit-light/Rectangle 15.png'/> | Cordovan             | `#933945` | `rgb(147, 57, 69)`       | `hsl(352, 44%, 40%)`    |
-| <img src='assets/biscuit-light/Rectangle 16.png'/> | Chestnut             | `#8B5547` | `rgb(139, 85, 71)`       | `hsl(12, 32%, 41%)`     |
-| <img src='assets/biscuit-light/Rectangle 17.png'/> | Coyote               | `#7C5C42` | `rgb(124, 92, 66)`       | `hsl(27, 31%, 37%)`     |
-| <img src='assets/biscuit-light/Rectangle 18.png'/> | Ebony                | `#676354` | `rgb(103, 99, 84)`       | `hsl(47, 10%, 37%)`     |
-| <img src='assets/biscuit-light/Rectangle 19.png'/> | Davy's Gray          | `#5E645F` | `rgb(89, 95, 90)`        | `hsl(130, 3%, 36%)`     |
-| <img src='assets/biscuit-light/Rectangle 20.png'/> | Dim Gray             | `#67606E` | `rgb(103, 96, 110)`      | `hsl(270, 7%, 40%)`     |
-| <img src='assets/biscuit-light/Rectangle 21.png'/> | Pomp and Power       | `#6C6589` | `rgb(108, 101, 137)`     | `hsl(252, 15%, 47%)`    |
-| <img src='assets/biscuit-light/Rectangle 22.png'/> | Chinese Violet       | `#794F77` | `rgb(121, 79, 119)`      | `hsl(303, 21%, 39%)`    |
-| <img src='assets/biscuit-light/Rectangle 23.png'/> | Quinacridone Magenta | `#7E4560` | `rgb(126, 69, 96)`       | `hsl(332, 29%, 38%)`    |
+| <img src='assets/biscuit-light/Rectangle 15.png'/> | Redwood              | `#B54851` | `rgb(181, 72, 81)`       | `hsl(355, 43%, 50%)`    |
+| <img src='assets/biscuit-light/Rectangle 16.png'/> | Old Rose             | `#D0796D` | `rgb(208, 121, 109)`     | `hsl(7, 51%, 62%)`      |
+| <img src='assets/biscuit-light/Rectangle 17.png'/> | Brown Sugar          | `#C6846C` | `rgb(198, 132, 108)`     | `hsl(16, 44%, 60%)`     |
+| <img src='assets/biscuit-light/Rectangle 18.png'/> | Dim Gray             | `#938579` | `rgb(147, 133, 121)`     | `hsl(28, 11%, 53%)`     |
+| <img src='assets/biscuit-light/Rectangle 19.png'/> | Silver               | `#878985` | `rgb(135, 137, 133)`     | `hsl(90, 2%, 53%)`      |
+| <img src='assets/biscuit-light/Rectangle 20.png'/> | Taupe Gray           | `#877B85` | `rgb(135, 123, 133)`     | `hsl(310, 5%, 51%)`     |
+| <img src='assets/biscuit-light/Rectangle 21.png'/> | Chinese Violet       | `#79657A` | `rgb(121, 101, 122)`     | `hsl(297, 9%, 44%)`     |
+| <img src='assets/biscuit-light/Rectangle 22.png'/> | Eggplant             | `#794F65` | `rgb(121, 79, 101)`      | `hsl(329, 21%, 39%)`    |
+| <img src='assets/biscuit-light/Rectangle 23.png'/> | China Rose           | `#9F596C` | `rgb(159, 89, 108)`      | `hsl(344, 28%, 49%)`    |
 
 ### Ports
 
