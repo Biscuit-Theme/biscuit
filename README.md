@@ -62,3 +62,4 @@
 - [Alacritty](https://github.com/tsukki9696/biscuit/tree/main/ports/alacritty)
 - [Emacs](https://github.com/tsukki9696/biscuit/tree/main/ports/emacs)
 - [Foot](https://github.com/tsukki9696/biscuit/tree/main/ports/foot)
+- [Lutgen palette](https://github.com/ozwaldorf/lutgen-rs)
