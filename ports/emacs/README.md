@@ -1,1 +1,1 @@
-# Themes starting with doom only work with Doom Emacs.
+## Themes starting with doom only work with Doom Emacs.
