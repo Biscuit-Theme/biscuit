@@ -9,6 +9,7 @@
 - <b>Milky</b>: Foreground colors must also be easy to look, and no one wants to hurt their eyes while reading text, so we chose colors that should comfort the eyes
 
 ### Colors
+Biscuit comes in two flavors, Dark and Light, suited for all sorts of users and taste.
 
 ### Biscuit Dark
 
