@@ -59,6 +59,8 @@ Biscuit comes in two flavors, Dark and Light, suited for all sorts of users and 
 - [Neovim](https://github.com/tsukki9696/biscuit/tree/main/ports/nvim)
 - [GTK](https://github.com/tsukki9696/biscuit/tree/main/ports/gtk)
 - [Firefox](https://github.com/tsukki9696/biscuit/tree/main/ports/firefox)
+- [Helix](https://github.com/tsukki9696/biscuit/tree/main/ports/helix)
+- [Doom Emacs](https://github.com/tsukki9696/biscuit/tree/main/ports/doom)
 - [Discord](https://github.com/tsukki9696/biscuit/tree/main/ports/discord)
 - [Alacritty](https://github.com/tsukki9696/biscuit/tree/main/ports/alacritty)
 - [Emacs](https://github.com/tsukki9696/biscuit/tree/main/ports/emacs)
