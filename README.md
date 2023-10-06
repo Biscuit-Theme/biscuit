@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="assets/logo-dark-corrected.png" width="200" alt="Logo"/><br/>
+	<img src="assets/logo-dark-corrected.png" width="500" alt="Logo"/><br/>
 </h3>
 <p align="center"><b>Biscuit</b> is a simple, warm colorscheme with cute colors that invoke feelings of a warm summer day. Made for comfort and elegant themes and to be easy on the eyes. An escape from the usual colorschemes you see everywhere, a safe haven and a warm cup of tea in amidst of a busy day. Made with love.</p>
 
