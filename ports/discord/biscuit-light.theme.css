@@ -31,4 +31,10 @@
 
 /* Any custom CSS below here */
 
-
+#app-mount .lookFilled-1H2Jvj.colorPrimary-2-Lusz, #app-mount .lookFilled-1H2Jvj.colorPrimary-2-Lusz:disabled { color: var(--textdark); }
+.message-1WzYhw strong, #app-mount .wrapper-1ZcZW- { color: var(--textbrightest); }
+.iconBadge-32fMme { color: var(--textdark); }
+.circleIconButton-1VxDrg { color: var(--accentcolor); }
+.featureCards-1Jt7gz svg { color: var(--textdark); }
+.accountButtonInner-33vCDY { background-color: var(--backgroundfloating); }
+.card-2guEcY { background-color: var(--backgroundfloating); color: var(--textdark); }
