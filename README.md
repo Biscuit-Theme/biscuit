@@ -64,4 +64,5 @@ Biscuit comes in two flavors, Dark and Light, suited for all sorts of users and 
 - [Alacritty](https://github.com/tsukki9696/biscuit/tree/main/ports/alacritty)
 - [Emacs](https://github.com/tsukki9696/biscuit/tree/main/ports/emacs)
 - [Foot](https://github.com/tsukki9696/biscuit/tree/main/ports/foot)
+- [Kitty](https://github.com/tsukki9696/biscuit/tree/main/ports/kitty)
 - [Lutgen palette](https://github.com/ozwaldorf/lutgen-rs)
