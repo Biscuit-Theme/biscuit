@@ -27,6 +27,8 @@ Biscuit is a **versatile** color palette that embraces both the **rich depth** o
 
 <details>
   <summary><b>🌙 Biscuit Dark</b></summary>
+<br>
+	
 | Image | Label | Hex | RGB | HSL |
 |-------|-------|-----|-----|-----|
 | <img src='assets/biscuit-dark/Rectangle 10.png'/> | Licorice       | `#1A1515` | `rgb(26, 21, 21)`     | `hsl(0, 11%, 9%)`       |
@@ -48,6 +50,8 @@ Biscuit is a **versatile** color palette that embraces both the **rich depth** o
 </details>
 <details>
 	  <summary><b>🌞 Biscuit Light</b></summary>
+	<br>
+	
 | Image | Label | Hex | RGB | HSL |
 |-------|-------|-----|-----|-----|
 | <img src='assets/biscuit-light/Rectangle 10.png'/> | Rose Quartz          | `#A38A8A` | `rgb(163, 138, 138)`     | `hsl(0, 12%, 59%)`      |
