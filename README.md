@@ -61,15 +61,15 @@ Biscuit is a **versatile** color palette that embraces both the **rich depth** o
 | <img src='assets/biscuit-light/Rectangle 28.png'/> | Cinereous            | `#9C8181` | `rgb(156, 129, 129)`     | `hsl(0, 12%, 56%)`      |
 | <img src='assets/biscuit-light/Rectangle 27.png'/> | Van Dyke             | `#483939` | `rgb(72, 57, 57)`        | `hsl(0, 12%, 25%)`      |
 | <img src='assets/biscuit-light/Rectangle 29.png'/> | Raisin Black         | `#2D2424` | `rgb(45, 36, 36)`        | `hsl(0, 11%, 16%)`      |
-| <img src='assets/biscuit-light/Rectangle 15.png'/> | Redwood              | `#B54851` | `rgb(181, 72, 81)`       | `hsl(355, 43%, 50%)`    |
-| <img src='assets/biscuit-light/Rectangle 16.png'/> | Old Rose             | `#D0796D` | `rgb(208, 121, 109)`     | `hsl(7, 51%, 62%)`      |
-| <img src='assets/biscuit-light/Rectangle 17.png'/> | Brown Sugar          | `#C6846C` | `rgb(198, 132, 108)`     | `hsl(16, 44%, 60%)`     |
-| <img src='assets/biscuit-light/Rectangle 18.png'/> | Dim Gray             | `#938579` | `rgb(147, 133, 121)`     | `hsl(28, 11%, 53%)`     |
-| <img src='assets/biscuit-light/Rectangle 19.png'/> | Silver               | `#878985` | `rgb(135, 137, 133)`     | `hsl(90, 2%, 53%)`      |
-| <img src='assets/biscuit-light/Rectangle 20.png'/> | Taupe Gray           | `#877B85` | `rgb(135, 123, 133)`     | `hsl(310, 5%, 51%)`     |
+| <img src='assets/biscuit-light/Rectangle 15.png'/> | Redwood              | `#AE4750` | `rgb(174, 71, 80)`       | `hsl(355, 42%, 48%)`    |
+| <img src='assets/biscuit-light/Rectangle 16.png'/> | Indian Red           | `#C6695D` | `rgb(198, 105, 93)`     | `hsl(7, 48%, 57%)`      |
+| <img src='assets/biscuit-light/Rectangle 17.png'/> | Persian Orange       | `#CD9165` | `rgb(205, 145, 101)`     | `hsl(25, 51%, 60%)`     |
+| <img src='assets/biscuit-light/Rectangle 18.png'/> | Moss Green           | `#97916F` | `rgb(151, 145, 111)`     | `hsl(51, 16%, 51%)`     |
+| <img src='assets/biscuit-light/Rectangle 19.png'/> | Gray                 | `#7A7F7F` | `rgb(122, 127, 127)`     | `hsl(180, 2%, 49%)`      |
+| <img src='assets/biscuit-light/Rectangle 20.png'/> | Taupe Gray           | `#7B727E` | `rgb(123, 114, 126)`     | `hsl(285, 5%, 47%)`     |
 | <img src='assets/biscuit-light/Rectangle 21.png'/> | Chinese Violet       | `#79657A` | `rgb(121, 101, 122)`     | `hsl(297, 9%, 44%)`     |
-| <img src='assets/biscuit-light/Rectangle 22.png'/> | Eggplant             | `#794F65` | `rgb(121, 79, 101)`      | `hsl(329, 21%, 39%)`    |
-| <img src='assets/biscuit-light/Rectangle 23.png'/> | China Rose           | `#9F596C` | `rgb(159, 89, 108)`      | `hsl(344, 28%, 49%)`    |
+| <img src='assets/biscuit-light/Rectangle 22.png'/> | Eggplant             | `#83546B` | `rgb(131, 84, 107)`      | `hsl(331, 22%, 42%)`    |
+| <img src='assets/biscuit-light/Rectangle 23.png'/> | China Rose           | `#A05A78` | `rgb(160, 90, 120)`      | `hsl(334, 28%, 49%)`    |
 </details>
 
 ### 🔌 Ports
