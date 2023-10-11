@@ -86,6 +86,7 @@ Thanks to the work of the **amazing** people who actively contribute to **Biscui
 - [Alacritty](https://github.com/Biscuit-Colorscheme/alacritty)
 - [Wezterm](https://github.com/Biscuit-Colorscheme/wezterm)
 - [Foot](https://github.com/Biscuit-Colorscheme/foot)
+- [Tym](https://github.com/Biscuit-Colorscheme/tym)
 
 </details>
 
@@ -115,4 +116,7 @@ Thanks to the work of the **amazing** people who actively contribute to **Biscui
 	<summary><b>🐚 CLI tools</b></summary>
 	
 - [Lutgen palette](https://github.com/ozwaldorf/lutgen-rs)
+- [Cava](https://github.com/Biscuit-Colorscheme/cava)
+- [Btop](https://github.com/Biscuit-Colorscheme/btop)
+  
 </details>
