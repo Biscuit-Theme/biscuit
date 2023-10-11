@@ -3,13 +3,9 @@
   Biscuit Color Scheme
 </h3>
 <h6 align="center">
-  |
   <a href="https://github.com/Biscuit-Colorscheme/biscuit#-design-philosophy">Philosophy</a>
   |
   <a href="https://github.com/Biscuit-Colorscheme/biscuit#-colors">Colors</a>
-  |
-  <a href="https://github.com/Biscuit-Colorscheme/biscuit#-ports">Ports</a>
-  |
 </h6>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/color-cycle-light.png" alt="Biscuit palette" width="400" />
