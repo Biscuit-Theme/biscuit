@@ -1,0 +1,41 @@
+/* ==UserStyle==
+@name         Biscuit theme for 4get.ca
+@version      20240505.01.58
+@namespace    https://userstyles.world/user/soswav
+@description  For those that --
+@homepage     https://userstyles.world/style/16127/biscuit-theme-for-4get-ca
+@author       soswav / ilsby
+@license      Unlicense
+==/UserStyle== */
+
+@-moz-document url-prefix("https://4get.ca/"), url-prefix("https://4get.aishiteiru.moe/"), url-prefix("https://4get.lunar.icu/"), url-prefix("https://4get.hbubli.cc/"), url-prefix("https://4get.plunked.party/"), url-prefix("https://4getus.zzls.xyz/"), url-prefix("https://4get.zzls.xyz/"), url-prefix("https://4get.sijh.net/"), url-prefix("https://4get.ducks.party/"), url-prefix("http://2cacklzoqtb3nhug4n3hizwxupqreekbeu5c2swachpmefvehvwz5nyd.onion/"), url-prefix("http://4getwebfrq5zr4sxugk6htxvawqehxtdgjrbcn2oslllcol2vepa23yd.onion/"), url-prefix("https://4g.ggtyler.dev/"), url-prefix("https://4get.kizuki.lol/"), url-prefix("https://4get.neco.lol/"), url-prefix("http://46tj5gkbuowmxhe2lgrfoxoutayieb43gy6s4sceovd3thd4ehmsmrid.onion/"), url-prefix("https://4get.silly.computer/") {
+      :root {
+        --1d2021:  #1A1515;
+        --282828:  #1A1515;
+        --3c3836:  #2D2424; /* idfk */
+        --504945:  #2D2424;
+        --928374:  #959A6B;
+        --a89984:  #DCC9BC; /* text */
+        --bdae93:  #DCC9BC; /* idfk */
+        --8ec07c:  #959A6B;
+        --ebdbb2:  #DCC9BC;
+        --comment: #928374;
+        --default: #DCC9BC; /* idfk*/
+        --keyword: #F07342;
+        --string:  #768F80;
+        --green:   #959A6B;
+        --yellow:  #E39C45;
+        --red:     #CF223E;
+        --white:    var(--a89984);
+      }
+
+      .navigation a { color: var(--white); }
+      .searchbox { width: 23%; }
+      .filters filter select { color: #E39C45; }
+      .web .separator { color: var(--string); content: "//"; }
+      .searchbox input[type="text"]::placeholder { color: var(--white); }
+      .home .searchbox, .home img, .searchbox, .web .spoiler-button, .code, .web .images .image img, .thumb-wrap .thumb, .web .wiki-head .photo img
+      { border-radius: 10px; }
+      .code-inline { border-color: var(--white); border-radius: 5px; }
+      .filters { display: none; }
+}
