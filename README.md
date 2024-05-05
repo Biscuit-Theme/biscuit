@@ -120,3 +120,10 @@ Thanks to the work of the **amazing** people who actively contribute to **Biscui
 - [Btop](https://github.com/Biscuit-Colorscheme/btop)
   
 </details>
+
+<details open>
+	<summary><b>🔎 Search Engines</b></summary>
+	
+- [4get](https://github.com/Biscuit-Colorscheme/4get)
+
+</details>
