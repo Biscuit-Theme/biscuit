@@ -12,15 +12,15 @@
       :root {
         --1d2021:  #1A1515;
         --282828:  #1A1515;
-        --3c3836:  #2D2424; /* idfk */
+        --3c3836:  #2D2424;
         --504945:  #2D2424;
         --928374:  #959A6B;
-        --a89984:  #DCC9BC; /* text */
-        --bdae93:  #DCC9BC; /* idfk */
+        --a89984:  #DCC9BC;
+        --bdae93:  #DCC9BC;
         --8ec07c:  #959A6B;
         --ebdbb2:  #DCC9BC;
         --comment: #928374;
-        --default: #DCC9BC; /* idfk*/
+        --default: #DCC9BC;
         --keyword: #F07342;
         --string:  #768F80;
         --green:   #959A6B;
