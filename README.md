@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/icon-dark-nobg.png" width="100"/><br/>
+  <img src="assets/logos/logo w outline.png" width="100"/><br/>
   Biscuit Color Scheme
 </h3>
 <h6 align="center">
@@ -8,7 +8,7 @@
   <a href="https://github.com/Biscuit-Colorscheme/biscuit#-colors">Colors</a>
 </h6>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Biscuit-Colorscheme/.github/main/assets/color-cycle-light.png" alt="Biscuit palette" width="400" />
+  <img src="assets/line thing.png" alt="Biscuit palette" width="400" />
 </p>
 
 <p align="center"><b>Biscuit</b> is a simple, warm colorscheme with cute colors that invoke feelings of a warm summer day. Made for comfort and elegant themes and to be easy on the eyes. An escape from the usual colorschemes you see everywhere, a safe haven and a warm cup of tea in amidst of a busy day. Made with love.</p>
