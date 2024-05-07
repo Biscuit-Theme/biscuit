@@ -27,22 +27,22 @@ Biscuit is a **versatile** color palette that embraces both the **rich depth** o
 	
 | Image | Label | Hex | RGB | HSL |
 |-------|-------|-----|-----|-----|
-| <img src='assets/biscuit-dark/Rectangle 10.png'/> | Licorice       | `#1A1515` | `rgb(26, 21, 21)`     | `hsl(0, 11%, 9%)`       |
-| <img src='assets/biscuit-dark/Rectangle 11.png'/> | Raisin Black   | `#2D2424` | `rgb(45, 36, 36)`     | `hsl(0, 11%, 16%)`      |
-| <img src='assets/biscuit-dark/Rectangle 12.png'/> | Van Dyke       | `#453636` | `rgb(72, 57, 57)`     | `hsl(0, 12%, 25%)`      |
-| <img src='assets/biscuit-dark/Rectangle 14.png'/> | Wenge          | `#725A5A` | `rgb(114, 90, 90)`    | `hsl(0, 12%, 40%)`      |
-| <img src='assets/biscuit-dark/Rectangle 28.png'/> | Cinereous      | `#9C8181` | `rgb(156, 129, 129)`  | `hsl(0, 12%, 56%)`      |
-| <img src='assets/biscuit-dark/Rectangle 27.png'/> | Champagne Pink | `#DCC9BC` | `rgb(220, 201, 188)`  | `hsl(24, 31%, 80%)`     |
-| <img src='assets/biscuit-dark/Rectangle 29.png'/> | Papaya Whip    | `#FFE9C7` | `rgb(255, 233, 199)`  | `hsl(36, 100%, 89%)`    |
-| <img src='assets/biscuit-dark/Rectangle 15.png'/> | Crimson        | `#CF223E` | `rgb(207, 34, 56)`    | `hsl(352, 72%, 47%)`    |
-| <img src='assets/biscuit-dark/Rectangle 16.png'/> | Burnt Sienna   | `#F07342` | `rgb(240, 104, 66)`   | `hsl(13, 85%, 60%)`     |
-| <img src='assets/biscuit-dark/Rectangle 17.png'/> | Persian Orange | `#E39C45` | `rgb(227, 137, 69)`   | `hsl(26, 74%, 58%)`     |
-| <img src='assets/biscuit-dark/Rectangle 18.png'/> | Moss Green     | `#959A6B` | `rgb(150, 143, 107)`  | `hsl(50, 17%, 50%)`     |
-| <img src='assets/biscuit-dark/Rectangle 19.png'/> | Battleship Gray| `#768F80` | `rgb(124, 138, 126)`  | `hsl(129, 6%, 51%)`     |
-| <img src='assets/biscuit-dark/Rectangle 20.png'/> | Chinese Violet | `#756D94` | `rgb(124, 109, 139)`  | `hsl(270, 12%, 49%)`    |
-| <img src='assets/biscuit-dark/Rectangle 21.png'/> | Ultra Violet   | `#614F76` | `rgb(93, 84, 140)`    | `hsl(250, 25%, 44%)`    |
-| <img src='assets/biscuit-dark/Rectangle 22.png'/> | Plum           | `#7B3D79` | `rgb(123, 61, 121)`   | `hsl(302, 34%, 36%)`    |
-| <img src='assets/biscuit-dark/Rectangle 23.png'/> | Magenta Haze   | `#AE3F82` | `rgb(174, 63, 115)`   | `hsl(332, 47%, 46%)`    |
+| <img src='assets/swatches/night.png'/>         | Night            | `#181515` | `rgb(24, 21, 21)`     | `hsl(0, 7%, 9%)`        |
+| <img src='assets/swatches/raisin black.png'/>  | Raisin Black     | `#221E1E` | `rgb(34, 30, 30)`     | `hsl(0, 6%, 13%)`       |
+| <img src='assets/swatches/van dyke.png'/>      | Van Dyke         | `#423939` | `rgb(66, 57, 57)`     | `hsl(0, 7%, 24%)`       |
+| <img src='assets/swatches/wenge.png'/>         | Wenge            | `#6D5F5F` | `rgb(109, 95, 95)`    | `hsl(0, 7%, 40%)`       |
+| <img src='assets/swatches/cinereous.png'/>     | Cinereous        | `#978787` | `rgb(151, 135, 135)`  | `hsl(0, 7%, 56%)`       |
+| <img src='assets/swatches/silver.png'/>        | Silver           | `#B6A8A5` | `rgb(182, 168, 165)`  | `hsl(11, 10%, 68%)`     |
+| <img src='assets/swatches/antique white.png'/> | Antique White    | `#FFE9C7` | `rgb(244, 230, 210)`  | `hsl(35, 61%, 89%)`     |
+| <img src='assets/swatches/persian red.png'/>   | Persian Red      | `#CA3F3F` | `rgb(202, 63, 63)`    | `hsl(0, 57%, 52%)`      |
+| <img src='assets/swatches/flame.png'/>         | Flame            | `#E46A3A` | `rgb(228, 106, 58)`   | `hsl(17, 76%, 56%)`     |
+| <img src='assets/swatches/butterscotch.png'/>  | Butterscotch     | `#E39C45` | `rgb(227, 156, 69)`   | `hsl(33, 74%, 58%)`     |
+| <img src='assets/swatches/moss green.png'/>    | Moss Green       | `#989F56` | `rgb(152, 159, 86)`   | `hsl(66, 30%, 48%)`     |
+| <img src='assets/swatches/viridian.png'/>      | Viridian         | `#629386` | `rgb(98, 147, 134)`   | `hsl(164, 20%, 48%)`    |
+| <img src='assets/swatches/steel blue.png'/>    | Steel Blue       | `#517894` | `rgb(81, 120, 148)`   | `hsl(205, 29%, 45%)`    |
+| <img src='assets/swatches/yinmn blue.png'/>    | YinMn Blue       | `#4A5A8D` | `rgb(74, 90, 141)`    | `hsl(226, 31%, 42%)`    |
+| <img src='assets/swatches/purpureus.png'/>     | Purpureus        | `#9F569A` | `rgb(159, 86, 154)`   | `hsl(304, 30%, 48%)`    |
+| <img src='assets/swatches/mulberry.png'/>      | Mulberry         | `#C45497` | `rgb(196, 84, 151)`   | `hsl(324, 49%, 55%)`    |
 </details>
 <details>
 	  <summary><b>🌞 Biscuit Light</b></summary>
@@ -50,22 +50,22 @@ Biscuit is a **versatile** color palette that embraces both the **rich depth** o
 	
 | Image | Label | Hex | RGB | HSL |
 |-------|-------|-----|-----|-----|
-| <img src='assets/biscuit-light/Rectangle 10.png'/> | Rose Quartz          | `#A38A8A` | `rgb(163, 138, 138)`     | `hsl(0, 12%, 59%)`      |
-| <img src='assets/biscuit-light/Rectangle 11.png'/> | Silver               | `#C1AEAE` | `rgb(193, 174, 174)`     | `hsl(0, 13%, 72%)`      |
-| <img src='assets/biscuit-light/Rectangle 12.png'/> | Champagne Pink       | `#E0CFC6` | `rgb(224, 207, 198)`     | `hsl(21, 30%, 83%)`     |
-| <img src='assets/biscuit-light/Rectangle 14.png'/> | Old Lace             | `#FFF7EB` | `rgb(255, 247, 235)`     | `hsl(36, 100%, 96%)`    |
-| <img src='assets/biscuit-light/Rectangle 28.png'/> | Cinereous            | `#9C8181` | `rgb(156, 129, 129)`     | `hsl(0, 12%, 56%)`      |
-| <img src='assets/biscuit-light/Rectangle 27.png'/> | Van Dyke             | `#483939` | `rgb(72, 57, 57)`        | `hsl(0, 12%, 25%)`      |
-| <img src='assets/biscuit-light/Rectangle 29.png'/> | Raisin Black         | `#2D2424` | `rgb(45, 36, 36)`        | `hsl(0, 11%, 16%)`      |
-| <img src='assets/biscuit-light/Rectangle 15.png'/> | Redwood              | `#AE4750` | `rgb(174, 71, 80)`       | `hsl(355, 42%, 48%)`    |
-| <img src='assets/biscuit-light/Rectangle 16.png'/> | Indian Red           | `#C6695D` | `rgb(198, 105, 93)`     | `hsl(7, 48%, 57%)`      |
-| <img src='assets/biscuit-light/Rectangle 17.png'/> | Persian Orange       | `#CD9165` | `rgb(205, 145, 101)`     | `hsl(25, 51%, 60%)`     |
-| <img src='assets/biscuit-light/Rectangle 18.png'/> | Moss Green           | `#97916F` | `rgb(151, 145, 111)`     | `hsl(51, 16%, 51%)`     |
-| <img src='assets/biscuit-light/Rectangle 19.png'/> | Gray                 | `#7A7F7F` | `rgb(122, 127, 127)`     | `hsl(180, 2%, 49%)`      |
-| <img src='assets/biscuit-light/Rectangle 20.png'/> | Taupe Gray           | `#7B727E` | `rgb(123, 114, 126)`     | `hsl(285, 5%, 47%)`     |
-| <img src='assets/biscuit-light/Rectangle 21.png'/> | Chinese Violet       | `#79657A` | `rgb(121, 101, 122)`     | `hsl(297, 9%, 44%)`     |
-| <img src='assets/biscuit-light/Rectangle 22.png'/> | Eggplant             | `#83546B` | `rgb(131, 84, 107)`      | `hsl(331, 22%, 42%)`    |
-| <img src='assets/biscuit-light/Rectangle 23.png'/> | China Rose           | `#A05A78` | `rgb(160, 90, 120)`      | `hsl(334, 28%, 49%)`    |
+| <img src='assets/swatches/antique white.png'/> | Antique White    | `#FFE9C7` | `rgb(244, 230, 210)`  | `hsl(35, 61%, 89%)`     |
+| <img src='assets/swatches/silver.png'/>        | Silver           | `#B6A8A5` | `rgb(182, 168, 165)`  | `hsl(11, 10%, 68%)`     |
+| <img src='assets/swatches/cinereous.png'/>     | Cinereous        | `#978787` | `rgb(151, 135, 135)`  | `hsl(0, 7%, 56%)`       |
+| <img src='assets/swatches/wenge.png'/>         | Wenge            | `#6D5F5F` | `rgb(109, 95, 95)`    | `hsl(0, 7%, 40%)`       |
+| <img src='assets/swatches/van dyke.png'/>      | Van Dyke         | `#423939` | `rgb(66, 57, 57)`     | `hsl(0, 7%, 24%)`       |
+| <img src='assets/swatches/jet.png'/>           | Jet              | `#2B2626` | `rgb(43, 38, 38)`     | `hsl(0, 6%, 16%)`       |
+| <img src='assets/swatches/raisin black.png'/>  | Raisin Black     | `#221E1E` | `rgb(34, 30, 30)`     | `hsl(0, 6%, 13%)`       |
+| <img src='assets/swatches/persian red.png'/>   | Persian Red      | `#CA3F3F` | `rgb(202, 63, 63)`    | `hsl(0, 57%, 52%)`      |
+| <img src='assets/swatches/flame.png'/>         | Flame            | `#E46A3A` | `rgb(228, 106, 58)`   | `hsl(17, 76%, 56%)`     |
+| <img src='assets/swatches/butterscotch.png'/>  | Butterscotch     | `#E39C45` | `rgb(227, 156, 69)`   | `hsl(33, 74%, 58%)`     |
+| <img src='assets/swatches/moss green.png'/>    | Moss Green       | `#989F56` | `rgb(152, 159, 86)`   | `hsl(66, 30%, 48%)`     |
+| <img src='assets/swatches/viridian.png'/>      | Viridian         | `#629386` | `rgb(98, 147, 134)`   | `hsl(164, 20%, 48%)`    |
+| <img src='assets/swatches/steel blue.png'/>    | Steel Blue       | `#517894` | `rgb(81, 120, 148)`   | `hsl(205, 29%, 45%)`    |
+| <img src='assets/swatches/yinmn blue.png'/>    | YinMn Blue       | `#4A5A8D` | `rgb(74, 90, 141)`    | `hsl(226, 31%, 42%)`    |
+| <img src='assets/swatches/purpureus.png'/>     | Purpureus        | `#9F569A` | `rgb(159, 86, 154)`   | `hsl(304, 30%, 48%)`    |
+| <img src='assets/swatches/mulberry.png'/>      | Mulberry         | `#C45497` | `rgb(196, 84, 151)`   | `hsl(324, 49%, 55%)`    |
 </details>
 
 ### 🔌 Ports
