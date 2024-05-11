@@ -57,15 +57,15 @@ Biscuit is a **versatile** color palette that embraces both the **rich depth** o
 | <img src='assets/swatches/dark mode/van dyke.png'/>         | Van Dyke         | `#423939` | `rgb(66, 57, 57)`    | `hsl(0, 7%, 24%)`       |
 | <img src='assets/swatches/dark mode/jet.png'/>              | Jet              | `#2b2626` | `rgb(43, 38, 38)`    | `hsl(0, 6%, 16%)`       |
 | <img src='assets/swatches/dark mode/night.png'/>            | Night            | `#181515` | `rgb(24, 21, 21)`    | `hsl(0, 7%, 9%)`        |
-| <img src='assets/swatches/light mode/fire engine red.png'/> | fire engine red  | `#cb2424` | `rgb(203, 36, 36)`   | `hsl(0, 70%, 47%)`      |
-| <img src='assets/swatches/light mode/giants orange.png'/>   | giants orange    | `#e95318` | `rgb(233, 83, 24)`   | `hsl(17, 83%, 50%)`     |
-| <img src='assets/swatches/light mode/earth yellow.png'/>    | earth yellow     | `#e98f21` | `rgb(233, 143, 33)`  | `hsl(33, 82%, 52%)`     |
-| <img src='assets/swatches/light mode/apple green.png'/>     | apple green      | `#9ba636` | `rgb(155, 166, 54)`  | `hsl(66, 51%, 43%)`     |
-| <img src='assets/swatches/light mode/zomp.png'/>            | zomp             | `#3e9f85` | `rgb(62, 159, 133)`  | `hsl(164, 44%, 43%)`    |
-| <img src='assets/swatches/light mode/ucla blue.png'/>       | ucla blue        | `#34709b` | `rgb(52, 112, 155)`  | `hsl(205, 50%, 41%)`    |
-| <img src='assets/swatches/light mode/martian blue.png'/>    | martian blue     | `#2f4692` | `rgb(47, 70, 146)`   | `hsl(226, 51%, 38%)`    |
-| <img src='assets/swatches/light mode/plum.png'/>            | plum             | `#a6369f` | `rgb(166, 54, 159)`  | `hsl(304, 51%, 43%)`    |
-| <img src='assets/swatches/light mode/red violet.png'/>      | red violet       | `#cf2d8e` | `rgb(207, 45, 142)`  | `hsl(324, 64%, 49%)`    |
+| <img src='assets/swatches/light mode/fire engine red.png'/> | Fire Engine Red  | `#cb2424` | `rgb(203, 36, 36)`   | `hsl(0, 70%, 47%)`      |
+| <img src='assets/swatches/light mode/giants orange.png'/>   | Giants Orange    | `#e95318` | `rgb(233, 83, 24)`   | `hsl(17, 83%, 50%)`     |
+| <img src='assets/swatches/light mode/earth yellow.png'/>    | Earth Yellow     | `#e98f21` | `rgb(233, 143, 33)`  | `hsl(33, 82%, 52%)`     |
+| <img src='assets/swatches/light mode/apple green.png'/>     | Apple Green      | `#9ba636` | `rgb(155, 166, 54)`  | `hsl(66, 51%, 43%)`     |
+| <img src='assets/swatches/light mode/zomp.png'/>            | Zomp             | `#3e9f85` | `rgb(62, 159, 133)`  | `hsl(164, 44%, 43%)`    |
+| <img src='assets/swatches/light mode/ucla blue.png'/>       | UCLA Blue        | `#34709b` | `rgb(52, 112, 155)`  | `hsl(205, 50%, 41%)`    |
+| <img src='assets/swatches/light mode/martian blue.png'/>    | Martian Blue     | `#2f4692` | `rgb(47, 70, 146)`   | `hsl(226, 51%, 38%)`    |
+| <img src='assets/swatches/light mode/plum.png'/>            | Plum             | `#a6369f` | `rgb(166, 54, 159)`  | `hsl(304, 51%, 43%)`    |
+| <img src='assets/swatches/light mode/red violet.png'/>      | Red Violet       | `#cf2d8e` | `rgb(207, 45, 142)`  | `hsl(324, 64%, 49%)`    |
 </details>
 
 ### 🔌 Ports
