@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="assets/logos/base.png" width="100"/><br/>
+  <img src="assets/logos/rainbow stroke.png" width="200"/><br/>
   Biscuit Color Scheme
 </h3>
 <h6 align="center">
