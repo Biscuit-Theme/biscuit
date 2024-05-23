@@ -2,16 +2,15 @@
   <img src="assets/logos/rainbow stroke.png" width="100"/><br/>
   <img src="assets/font rainbow.png" width="220"/><br/>
 </h3>
-<h6 align="center">
-  <a href="https://github.com/Biscuit-Colorscheme/biscuit#-design-philosophy">Philosophy</a>
-  |
-  <a href="https://github.com/Biscuit-Colorscheme/biscuit#-colors">Colors</a>
+<h6 align="center" style="display: flex; justify-content: center; gap: 10px;">
+	<a href="https://github.com/Biscuit-Colorscheme/biscuit#-design-philosophy"><img src="https://img.shields.io/badge/-PHILOSOPHY%20-CA3F3F?style=for-the-badge&labelColor=221E1E&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNS4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjQgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZD0iTTE4NCAwYzMwLjkgMCA1NiAyNS4xIDU2IDU2VjQ1NmMwIDMwLjktMjUuMSA1Ni01NiA1NmMtMjguOSAwLTUyLjctMjEuOS01NS43LTUwLjFjLTUuMiAxLjQtMTAuNyAyLjEtMTYuMyAyLjFjLTM1LjMgMC02NC0yOC43LTY0LTY0YzAtNy40IDEuMy0xNC42IDMuNi0yMS4yQzIxLjQgMzY3LjQgMCAzMzguMiAwIDMwNGMwLTMxLjkgMTguNy01OS41IDQ1LjgtNzIuM0MzNy4xIDIyMC44IDMyIDIwNyAzMiAxOTJjMC0zMC43IDIxLjYtNTYuMyA1MC40LTYyLjZDODAuOCAxMjMuOSA4MCAxMTggODAgMTEyYzAtMjkuOSAyMC42LTU1LjEgNDguMy02Mi4xQzEzMS4zIDIxLjkgMTU1LjEgMCAxODQgMHpNMzI4IDBjMjguOSAwIDUyLjYgMjEuOSA1NS43IDQ5LjljMjcuOCA3IDQ4LjMgMzIuMSA0OC4zIDYyLjFjMCA2LS44IDExLjktMi40IDE3LjRjMjguOCA2LjIgNTAuNCAzMS45IDUwLjQgNjIuNmMwIDE1LTUuMSAyOC44LTEzLjggMzkuN0M0OTMuMyAyNDQuNSA1MTIgMjcyLjEgNTEyIDMwNGMwIDM0LjItMjEuNCA2My40LTUxLjYgNzQuOGMyLjMgNi42IDMuNiAxMy44IDMuNiAyMS4yYzAgMzUuMy0yOC43IDY0LTY0IDY0Yy01LjYgMC0xMS4xLS43LTE2LjMtMi4xYy0zIDI4LjItMjYuOCA1MC4xLTU1LjcgNTAuMWMtMzAuOSAwLTU2LTI1LjEtNTYtNTZWNTZjMC0zMC45IDI1LjEtNTYgNTYtNTZ6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+"></a>
+  <a href="https://github.com/Biscuit-Colorscheme/biscuit#-colors"><img src="https://img.shields.io/badge/-COLORS%20-629386?style=for-the-badge&labelColor=221E1E&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNS4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNzZS9mcmVlIENvcHlyaWdodCAyMDI0IEZvbnRpY29ucywgSW5jLi0tPjxwYXRoIGQ9Ik0zMzkuMyAzNjcuMWMyNy4zLTMuOSA1MS45LTE5LjQgNjcuMi00Mi45TDU2OC4yIDc0LjFjMTIuNi0xOS41IDkuNC00NS4zLTcuNi02MS4yUzUxNy43LTQuNCA0OTkuMSA5LjZMMjYyLjQgMTg3LjJjLTI0IDE4LTM4LjIgNDYuMS0zOC40IDc2LjFMMzM5LjMgMzY3LjF6bS0xOS42IDI1LjRsLTExNi0xMDQuNEMxNDMuOSAyOTAuMyA5NiAzMzkuNiA5NiA0MDBjMCAzLjkuMiA3LjguNiAxMS42Qzk4LjQgNDI5LjEgODYuNCA0NDggNjguOCA0NDhINDRjLTE3LjcgMC0zMiAxNC4zLTMyIDMyczE0LjMgMzIgMzIgMzJIMjA4YzYxLjkgMCAxMTItNTAuMSAxMTItMTEyYzAtMi41LS4xLTUuMC0uMi03LjV6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+"></a>
 </h6>
+
 <p align="center">
   <img src="assets/extras/rainbow line.png" alt="Biscuit palette" width="400" />
 </p>
 
-<p align="center"><b>Biscuit</b> is a simple, warm colorscheme with cute colors that invoke feelings of a warm summer day. Made for comfort and elegant themes and to be easy on the eyes. An escape from the usual colorschemes you see everywhere, a safe haven and a warm cup of tea in amidst of a busy day. Made with love.</p>
 
 ### 👨‍🎨 Design Philosophy
 
