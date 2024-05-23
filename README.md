@@ -1,6 +1,6 @@
 <h3 align="center">
-  <img src="assets/logos/rainbow stroke.png" width="125"/><br/>
-  <img src="assets/font rainbow.png" width="300"/><br/>
+  <img src="assets/logos/rainbow stroke.png" width="100"/><br/>
+  <img src="assets/font rainbow.png" width="220"/><br/>
 </h3>
 <h6 align="center">
   <a href="https://github.com/Biscuit-Colorscheme/biscuit#-design-philosophy">Philosophy</a>
