@@ -93,6 +93,8 @@ Biscuit **de Sol** is our vibrant, sun-soaked iteration of the Biscuit Theme. Pi
 
 </details>
 
+---
+
 <h3>
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.webp" type="image/webp">
@@ -149,6 +151,7 @@ Biscuit de Mar - "Biscuit from the Sea" - is what happens when Biscoito ventures
 | <img src='assets/swatches/mar/light mode/china rose.png'/>     | China Rose           | `#A05A78` | `rgb(160, 90, 120)`      | `hsl(334, 28%, 49%)`    |
 </details>
 
+--- 
 
 ### 🔌 Ports
 
@@ -205,3 +208,6 @@ Thanks to the work of the **amazing** people who actively contribute to **Biscui
 - [Btop](https://github.com/Biscuit-Colorscheme/btop)
 
 </details>
+<p align="center">
+  <img src="assets/extras/monochrome logo line.png" alt="Biscuit palette" width="200" />
+</p>
